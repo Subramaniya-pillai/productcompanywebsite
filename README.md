@@ -40,7 +40,7 @@ HOME PAGE:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>ADOBE</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -56,16 +56,14 @@ HOME PAGE:
       </div>
       <div class="content">
         <div class="homecontent">
-          <h1>About Us</h1>
-          <img src="./img/down1.png" alt="Building" />
+          <h1>About ADOBE</h1>
+          <img src="./img/21.png" alt="Building" />
           <div class="contenttext">
-            Turbo Energy Private Limited (TEL) was incorporated in the year 1982 as a joint venture company between Brakes India Private Limited, Sundaram Finance Limited and BorgWarner Turbo Systems.
+            Creativity is in our DNA. Our game-changing innovations are redefining the possibilities of digital experiences. We connect content and data and introduce new technologies that democratize creativity, shape the next generation of storytelling, and inspire entirely new categories of business.
             <br />
-            TEL is a pioneer and the largest manufacturer of turbochargers in India. With over 60% market share, the company achieved a gross sales turnover of INR 12,768 million in FY20-21.
-
-The Engineering R&D centre which was established in 1985, is recognized by the Department of Scientific and Industrial Research, Government of India. The Centre designs and develops components, applicate turbochargers, conducts simulation, testing and validation in-house.
-
-TEL has four manufacturing locations with the capacity to produce 1.8 million turbochargers and 5 million turbocharger components per year. TEL is the most backward integrated turbocharger manufacturer ensuring consistent quality and reliable supply.
+            
+Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. 
+Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.
             <ul>
               <li>Simple to learn, easier to use</li>
               <li>Insightful , actionable & customizable reports</li>
@@ -75,11 +73,12 @@ TEL has four manufacturing locations with the capacity to produce 1.8 million tu
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by SUBRAMANIYA PILLAI.B
+        Copyright &#169; 2021 ADOBE Private Limited, Developed by SUBRAMANIYA PILLAI.B
       </div>
     </div>
   </body>
 </html>
+
 ```
 
 
@@ -88,7 +87,7 @@ PRODUCT PAGE:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>ADOBE </title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -106,97 +105,97 @@ PRODUCT PAGE:
       </div>
       <div class="content">
         <div class="productcontent">    
-          <h1>TURBO CHARGER TECHNOLOGIES</h1>
+          <h1>OUR PREMIUM PRODUCTS</h1>
           <div class="productitems">
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/pro1.png" alt="product image">
+                  <img src="/static/img/5.png" alt="product image">
                   </div>
-                  <div class="itemname">REGULATED TWO STAGE</div>
-                  <div class="itemprice">Price: Rs.40,000.00 </div>
+                  <div class="itemname">ADOBE STOCK</div>
+                  <div class="itemprice">Price: 1500/. </div>
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/pro2.png"  alt="product image">
+                  <img src="/static/img/4.jpeg"  alt="product image">
                   </div>
-                  <div class="itemname">VARIABLE TURBINE GEOMENTRY</div>
-                  <div class="itemprice">Price: Rs.10,000.00 </div>
+                  <div class="itemname">LIGHTROOM(1TB)</div>
+                  <div class="itemprice">Price: Rs.1000/. </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
-                <img src="/static/img/pro3.png"  alt="product image">
+                <img src="/static/img/7.jpeg"  alt="product image">
                 </div>
-                <div class="itemname">GASOLINE WG</div>
-                <div class="itemprice">Price: Rs.10,000.00 </div>
+                <div class="itemname">SUBSTANCE 3D DESIGNER</div>
+                <div class="itemprice">Price: Rs.10,00 </div>
             </div>
             <div class="productitem"> 
               <div class="itemimage">
-              <img src="/static/img/pro4.png"  alt="product image">
+              <img src="/static/img/2.png"  alt="product image">
               </div>
-              <div class="itemname">GASOLINE VTG</div>
-              <div class="itemprice">Price: Rs.10,000.00 </div>
+              <div class="itemname">INCOPY</div>
+              <div class="itemprice">Price: Rs.1500/. </div>
           </div>
           <div class="productitem"> 
             <div class="itemimage">
-            <img src="/static/img/pro5.png"  alt="product image">
+            <img src="/static/img/6.png"  alt="product image">
             </div>
-            <div class="itemname">WASTE GATE</div>
-            <div class="itemprice">Price: Rs.10,000.00 </div>
+            <div class="itemname">PHOTOSHOP CAMERA</div>
+            <div class="itemprice">Price: Rs.2000/. </div>
         </div>
         <div class="productitem"> 
           <div class="itemimage">
-          <img src="/static/img/pro6.png"  alt="product image">
+          <img src="/static/img/1.png"  alt="product image">
           </div>
-          <div class="itemname">NON WASTE GATE</div>
-          <div class="itemprice">Price: Rs.10,000.00 </div>
+          <div class="itemname">PHOTOSHOP EXPRESS</div>
+          <div class="itemprice">Price: Rs.500/. </div>
       </div>
       <div class="productitem"> 
         <div class="itemimage">
-        <img src="/static/img/pro7.png"  alt="product image">
+        <img src="/static/img/9.png"  alt="product image">
         </div>
-        <div class="itemname">E BOOSTER</div>
-        <div class="itemprice">Price: Rs.10,000.00 </div>
+        <div class="itemname">ADOBE FRESCO</div>
+        <div class="itemprice">Price: Rs.2500/. </div>
     </div>
     <div class="productitem"> 
       <div class="itemimage">
-      <img src="/static/img/pro8.png"  alt="product image">
+      <img src="/static/img/10.png"  alt="product image">
       </div>
-      <div class="itemname">TC FOR SMALL ENGINES</div>
-      <div class="itemprice">Price: Rs.10,000.00 </div>
+      <div class="itemname">SUBSTANCE 3D STAGER</div>
+      <div class="itemprice">Price: Rs.1200/. </div>
   </div>
   <div class="productitem"> 
     <div class="itemimage">
-    <img src="/static/img/pro9.png"  alt="product image">
+    <img src="/static/img/11.png"  alt="product image">
     </div>
-    <div class="itemname">WATER COOLED TURBO CHARGER</div>
-    <div class="itemprice">Price: Rs.10,000.00 </div>
+    <div class="itemname">DREAM WEAVER</div>
+    <div class="itemprice">Price: Rs.250/. </div>
 </div>
 <div class="productitem"> 
   <div class="itemimage">
-  <img src="/static/img/pro20.png"  alt="product image">
+  <img src="/static/img/12.png"  alt="product image">
   </div>
-  <div class="itemname">water cooled bearings</div>
-  <div class="itemprice">Price: Rs.10,000.00 </div>
+  <div class="itemname">ANIMATE</div>
+  <div class="itemprice">Price: RS:500/. </div>
 </div>
 <div class="productitem"> 
   <div class="itemimage">
-  <img src="/static/img/pro21.png"  alt="product image">
+  <img src="/static/img/13.png"  alt="product image">
   </div>
-  <div class="itemname">TWIN SCROLL TURBO</div>
-  <div class="itemprice">Price: Rs.10,000.00 </div>
+  <div class="itemname">PREMIERE RUSH</div>
+  <div class="itemprice">Price: Rs.2300/. </div>
 </div>
 <div class="productitem"> 
   <div class="itemimage">
-  <img src="/static/img/pro22.png"  alt="product image">
+  <img src="/static/img/13.png"  alt="product image">
   </div>
-  <div class="itemname">MONO SCROLL TURBO</div>
-  <div class="itemprice">Price: Rs.10,000.00 </div>
+  <div class="itemname">ILLUSTRATOR</div>
+  <div class="itemprice">Price: Rs.2600/. </div>
 </div>
           </div>
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by SUBRAMANIYA PILLAI.B
+        Copyright &#169; 2021 ADOBE Private Limited, Developed by SUBRAMANIYA PILLAI.B
       </div>
     </div>
   </body>
@@ -204,8 +203,10 @@ PRODUCT PAGE:
 ```
 PEOPLE PAGE:
 ```
-<head>
-    <title>EduSoft Private Limited</title>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ADOBE</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -225,45 +226,45 @@ PEOPLE PAGE:
           <div class="productitems">
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/pro11.png" alt="product image">
+                  <img src="/static/img/15.png" alt="product image">
                   </div>
-                  <div class="itemname">BOOMINATHAN.S</div>
-                  <div class="itemprice">CEO </div>
+                  <div class="itemname">SHANTANU NARAYEN</div>
+                  <div class="itemprice">CHAIRMAN </div>
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/pro19.png"  alt="product image">
+                  <img src="/static/img/16.png"  alt="product image">
                   </div>
-                  <div class="itemname">NAVEEN</div>
-                  <div class="itemprice">GENERAL MANAGER </div>
+                  <div class="itemname">SCOTT BELSKY</div>
+                  <div class="itemprice">CHIEF PRODUCT OFFICER </div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
-                <img src="/static/img/pro13.png"  alt="product image">
+                <img src="/static/img/17.png"  alt="product image">
                 </div>
-                <div class="itemname">SIVA</div>
-                <div class="itemprice">TEAM LEADER </div>
+                <div class="itemname">ANIL CHAKRAVARTHY</div>
+                <div class="itemprice">PRESIDENT</div>
             </div>
             <div class="productitem"> 
               <div class="itemimage">
-              <img src="/static/img/pro14.png"  alt="product image">
+              <img src="/static/img/18.png"  alt="product image">
               </div>
-              <div class="itemname">GOKUL ANAND</div>
-              <div class="itemprice">PRODUCTION MANAGER</div>
+              <div class="itemname">GLORIA CHEN</div>
+              <div class="itemprice">CHIEF PEOPLE OFFICER</div>
           </div>
           <div class="productitem"> 
             <div class="itemimage">
-            <img src="/static/img/pro15.png"  alt="product image">
+            <img src="/static/img/19.png"  alt="product image">
             </div>
-            <div class="itemname">KATHIR KUMAR</div>
-            <div class="itemprice">PLAN EXECUTOR</div>
+            <div class="itemname">ANN LEWNES</div>
+            <div class="itemprice">CHIEF MARKETING OFFICER</div>
           </div>
           <div class="productitem"> 
             <div class="itemimage">
-            <img src="/static/img/pro16.png"  alt="product image">
+            <img src="/static/img/20.png"  alt="product image">
             </div>
-            <div class="itemname">SASIDHAR</div>
-            <div class="itemprice">MOP CLEANER</div>
+            <div class="itemname">DANA RAO</div>
+            <div class="itemprice">VICE PRESIDENT</div>
           </div>
 
           
@@ -271,18 +272,19 @@ PEOPLE PAGE:
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by SUBRAMANIYA PILLAI.B
+        Copyright &#169; 2021 ADOBE Private Limited, Developed by SUBRAMANIYA PILLAI.B
       </div>
     </div>
   </body>
 </html>
+
 ```
 CONTACTS PAGE:
 ```
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>TURBO ENERGY PRIVATE LIMITED</title>
+    <title>adobe private limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/pro18.png" type="image/x-icon" />
   </head>
